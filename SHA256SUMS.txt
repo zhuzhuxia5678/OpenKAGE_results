@@ -1,0 +1,2 @@
+f505f66876cf39e9bcd56270fb38ca87e1068db45e2af1bfc7eefd6405b95d11  openkage_anonymous_supplement.zip
+09e7f0454faa06c985fb33ab4b5a3f0c4bbd7eca8e21e2945f0743f00b83ba59  openkage_anonymous_results.tar.zst
