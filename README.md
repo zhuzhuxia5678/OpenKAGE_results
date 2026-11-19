@@ -30,4 +30,4 @@ World saves and vector-index sidecars are not included. The compressed archive i
 
 ## Notes
 
-Model ids are normalized and no provider or endpoint tags are present. Some logged model outputs are in Chinese. Released under the MIT License.
+Paper: [arXiv:2611.24302](https://arxiv.org/abs/2611.24302). Model ids are normalized and no provider or endpoint tags are present. Some logged model outputs are in Chinese. Released under the MIT License.
